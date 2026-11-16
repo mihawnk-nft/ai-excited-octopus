@@ -1,4 +1,4 @@
-"""ai-excited-01 entry: copy the bundled artwork to /output/entry.png."""
+"""ai-excited-01 entry: copy the bundled artwork (Scary Octopus v2) to /output/entry.png."""
 import os
 import shutil
 
